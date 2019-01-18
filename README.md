@@ -1,0 +1,53 @@
+# Desprograme_JavaScript
+Aula Desprograme JavaScript
+
+<script type="text/javascript">
+
+// estutrura de função
+var pulaLinha = function( ) 
+{ 
+document.write("<br>"); 
+}; 
+
+// variaveis
+var num1 = 2 ;
+var num2 = 5;
+var calculo;
+
+// calculo
+calculo = num1 + num2;
+
+// aparece no console
+console.log(calculo);
+
+//aparece na tela
+document.write(calculo);
+pulaLinha ();
+pulaLinha ();
+//alerta de pagina na entrada
+alert("Hello World!!");
+
+//variavel para identificar a idade
+var idade=32;
+document.write(" Minha idade é:"+idade);
+pulaLinha ();
+pulaLinha ();
+document.write(" Minha idade é:"+idade);
+
+pulaLinha ();
+
+//atividade
+var num1 = 7 ;
+var num2 = 10;
+var num3 = 5;
+var calculo;
+var total;
+
+calculo = num1 + num2 + num3;
+total = calculo /3;
+
+console.log(total);
+document.write(total);
+pulaLinha ();
+pulaLinha ();
+</script>
