@@ -1,3 +1,3 @@
-# Desprograme_JavaScript
+# Desprograme_JavaScript_Aprendendo
 Aula Desprograme JavaScript
 
